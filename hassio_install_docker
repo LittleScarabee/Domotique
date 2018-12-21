@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+#set -e
 
 echo -e "###"
 echo -e "### Please specify the name of the volume you want to use ? (i.e. hassio_data)"
