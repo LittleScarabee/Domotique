@@ -2,8 +2,8 @@
 set -e
 
 echo -e "###"
-read -p "### Please specify the name of the volume you want to use ? (i.e. hassio_data)" rep_user
-read REP_USER=${rep_user}
+echo -e "### Please specify the name of the volume you want to use ? (i.e. hassio_data)"
+read REP_USER
 echo -e "###"
-echo -e ">>> You choose this volume : '$RE_USER'"
+echo -e ">>> You choose this volume : '$REP_USER'"
 echo -e ""
